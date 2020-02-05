@@ -1,0 +1,15 @@
+
+<suite name="Suite" parallel="classes">
+	<test thread-count="5" name="Test" parallel="classes">
+		<classes>
+			<!--  <class name="test.GoogleSearchTest_testNG2" />
+			 <methods>
+				<include name="googleSearch2" />
+				<include name="googleSearch3" />
+			 </methods>
+		<class name="test.GoogleSearchTest_testNG"/>
+		-->
+		<class name="test.ExtentReportsForTestNG"/>
+		</classes>
+	</test> 
+</suite> 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13292" started-at="2020-01-30T10:58:31 IST" finished-at="2020-01-30T10:58:44 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13292" started-at="2020-01-30T10:58:31 IST" finished-at="2020-01-30T10:58:44 IST">
+      <class name="test.ExtentReportsForTestNG">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.ExtentReportsForTestNG@4d95d2a2]" name="setup" is-config="true" duration-ms="209" started-at="2020-01-30T10:58:31 IST" finished-at="2020-01-30T10:58:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:test.ExtentReportsForTestNG@4d95d2a2]" name="setUpTest" is-config="true" duration-ms="4690" started-at="2020-01-30T10:58:31 IST" finished-at="2020-01-30T10:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:test.ExtentReportsForTestNG@4d95d2a2]" name="test1" duration-ms="5491" started-at="2020-01-30T10:58:36 IST" finished-at="2020-01-30T10:58:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:test.ExtentReportsForTestNG@4d95d2a2]" name="tearDownTest" is-config="true" duration-ms="3026" started-at="2020-01-30T10:58:41 IST" finished-at="2020-01-30T10:58:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ExtentReportsForTestNG@4d95d2a2]" name="tearDown" is-config="true" duration-ms="807" started-at="2020-01-30T10:58:44 IST" finished-at="2020-01-30T10:58:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.ExtentReportsForTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
