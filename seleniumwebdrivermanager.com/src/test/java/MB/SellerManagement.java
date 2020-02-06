@@ -82,7 +82,7 @@ public class SellerManagement {
 		//driver.switchTo().alert().sendKeys("Keys.RETURN");
 	//	driver.switchTo().alert().sendKeys("Keys.RETURN");
 		driver.switchTo().alert().accept();
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 	//	driver.switchTo().alert().sendKeys("Keys.RETURN");
 		driver.switchTo().alert().accept();
 		String typedText = driver.findElement(By.xpath("//input[@id='paymentlink']")).getAttribute("value");
